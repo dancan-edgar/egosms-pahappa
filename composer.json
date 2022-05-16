@@ -1,0 +1,19 @@
+{
+    "name": "sol001/egosms",
+    "description": "This is a wordpress plugin that integrates the Egosms Messaging Platform",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ampeire",
+            "email": "ampeireedgar5@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
