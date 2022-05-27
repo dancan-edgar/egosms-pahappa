@@ -15,7 +15,6 @@
         ?>
 
     </form>
-    <p class="permsg"></p>
 </div>
 
 

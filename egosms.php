@@ -26,7 +26,7 @@
 
 // If accessed directly, abort !!
 if(! defined('ABSPATH')){
-    die("You dont have access!");
+    die("You dont have access to this file!");
 }
 
 define('PLUGIN_PATH',plugin_dir_path(__FILE__));
